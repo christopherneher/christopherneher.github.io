@@ -9,7 +9,7 @@ author:
 description: > # "Write an awesome description for your new site here. 
   A birthday story
 copyright: 'Copyright &copy; 2018 Giuliana Watson. All Rights Reserved.'
-credits: 
+credits: 'Birthday Cake by supalerk laipawat from the Noun Project'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -24,6 +24,6 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: Click For Birthday
+  - title: Click For Presents
     url: http://citytastetours.com/
 
